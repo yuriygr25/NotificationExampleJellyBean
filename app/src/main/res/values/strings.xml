@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Уведомления в Jelly Bean</string>
+    <string name="about_title_activity2">Активность 2 в Jelly Bean</string>
+    <string name="about_title_activity3">Активность 3 в Jelly Bean</string>
+    <string name="about_title_activity4">Активность 4 в Jelly Bean</string>
+    <string name="about_title_activity5">Активность 5 в Jelly Bean</string>
+
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+
+    <string name="activity3_text">
+    <b>Текст для третьей активности</b>\n
+    </string>
+    <string name="activity4_text">
+    <b>Текст для четвёртой активности</b>\n
+    </string>
+    <string name="activity5_text">
+    <b>Текст для пятой активности</b>\n
+    </string>
+
+
+</resources>
